@@ -16,7 +16,28 @@
   <entry>
     <title>thisisatestarticle</title>
     <url>/2021/05/08/thisisatestarticle/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="本文档说明了修改内容"><a href="#本文档说明了修改内容" class="headerlink" title="本文档说明了修改内容"></a>本文档说明了修改内容</h1><hr>
+<h2 id="修复问题"><a href="#修复问题" class="headerlink" title="修复问题"></a>修复问题</h2><ul>
+<li>删除了手打目录，换成了Word自带的目录版式，现在可以通过<strong>更新目录</strong>来完成对标题的编辑，不需要手动更改目录内容</li>
+<li>修正了明显错误的格式，比如表格最后一行出现在第二页，或标题孤立的问题。</li>
+<li>修正了编号手动输入和自动编号共存的问题，现在编号均为Word自带的序号排序</li>
+</ul>
+<hr>
+<h2 id="其他可能问题"><a href="#其他可能问题" class="headerlink" title="其他可能问题"></a>其他可能问题</h2><hr>
+<p>以下仅为参考上下文和粗略阅读《中南民族大学本科生毕业论文（设计）规范化要求》得到的问题，有待验证</p>
+<hr>
+<h2 id="标点"><a href="#标点" class="headerlink" title="标点"></a>标点</h2><ul>
+<li>参考文献中作者分隔符存在英文逗号和中文逗号混用，未核对正文是否存在本问题</li>
+<li>参考文献中分隔符 .  后似乎应有空格<h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2></li>
+<li>过于复杂的表格应该适当增加分割线</li>
+<li>根据《中…规范化要求》命名格式似乎也有问题。<h2 id="附录"><a href="#附录" class="headerlink" title="附录"></a>附录</h2></li>
+<li>大部分选项均为全空白，第五问“5.    您所学过的金融相关课程”在第二个选项前有√</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>暂时</tag>
+        <tag>test</tag>
+      </tags>
   </entry>
   <entry>
     <title>移动端超长数学公式显示</title>
