@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>世界上古史I-从猿到人</title>
+    <url>/2021/01/25/%E4%B8%96%E7%95%8C%E4%B8%8A%E5%8F%A4%E5%8F%B2I-%E4%BB%8E%E7%8C%BF%E5%88%B0%E4%BA%BA/</url>
+    <content><![CDATA[<h1 id="猿猴分离和古猿演化"><a href="#猿猴分离和古猿演化" class="headerlink" title="猿猴分离和古猿演化"></a>猿猴分离和古猿演化</h1><p>  猿类从猴类分离出来还要从3500-3000万年前（渐新世）说起，考古学家发现在这个时期埃及的法尤姆生活着原上猿，在距今2800-2600万年的时期，还发现了埃及猿在这个时期生存，考古学家认为它们是原上猿的后裔。<br>  在中新世（距今2300-533万年）-上新世（距今530-260万年），各种古猿遍布各大洲（著名的有森林古猿、西瓦古猿等），这些古猿之间的关系难以判断。</p>
+]]></content>
+      <categories>
+        <category>历史</category>
+      </categories>
+      <tags>
+        <tag>史前史</tag>
+        <tag>上古史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>移动端超长数学公式显示</title>
+    <url>/2021/03/11/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%B6%85%E9%95%BF%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E6%98%BE%E7%A4%BA/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>弱宇宙监督Ⅱ——测试粒子</title>
+    <url>/2021/03/08/%E5%BC%B1%E5%AE%87%E5%AE%99%E7%9B%91%E7%9D%A3%E2%85%A1%E2%80%94%E2%80%94%E6%B5%8B%E8%AF%95%E7%B2%92%E5%AD%90/</url>
+    <content><![CDATA[<p>这是一个测试LaTeX是否配置成功的样例$m=2$</p>
+<script type="math/tex; mode=display">\left(\frac{\partial }{\partial s}\right)^2=g^{\mu \nu}\frac{\partial}{\partial x^\mu}\frac{\partial}{\partial x^\nu}</script><script type="math/tex; mode=display">
+    \begin{align}
+        \left(\frac{\partial }{\partial s}\right)^2=&g^{\mu \nu}\frac{\partial}{\partial x^\mu}\frac{\partial}{\partial x^\nu} \notag \\
+            =&-\frac{\left(r^2+a^2\right)^2-\varDelta a^2\sin ^2\theta}{\varSigma \varDelta}\left(\frac{\partial}{\partial t}\right)^2-\frac{2a\left(r^2+a^2-\varDelta\right)}{\varSigma \varDelta}\left(\frac{\partial}{\partial t}\right)\left(\frac{\partial}{\partial \phi}\right) \notag \\
+            &+\frac{\varDelta-a^2\sin ^2\theta}{\varSigma \varDelta \sin^2 \theta}\left(\frac{\partial}{\partial \phi}\right)^2+\frac{\varDelta}{\varSigma}\left(\frac{\partial}{\partial r}\right)^2+\frac{1}{\varSigma}\left(\frac{\partial}{\partial \theta}\right)^2
+    \end{align}</script>]]></content>
+      <categories>
+        <category>物理</category>
+      </categories>
+      <tags>
+        <tag>广义相对论</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>弱宇宙监督Ⅰ——什么是弱宇宙监督</title>
+    <url>/2021/01/25/%E5%BC%B1%E5%AE%87%E5%AE%99%E7%9B%91%E7%9D%A3%E2%85%A0%E2%80%94%E2%80%94%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%B1%E5%AE%87%E5%AE%99%E7%9B%91%E7%9D%A3/</url>
+    <content><![CDATA[<p>这是一个测试LaTeX是否配置成功的样例$m=2$</p>
+<script type="math/tex; mode=display">\left(\frac{\partial }{\partial s}\right)^2=g^{\mu \nu}\frac{\partial}{\partial x^\mu}\frac{\partial}{\partial x^\nu}</script><script type="math/tex; mode=display">
+    \begin{aligned}
+        \left(\frac{\partial }{\partial s}\right)^2=&g^{\mu \nu}\frac{\partial}{\partial x^\mu}\frac{\partial}{\partial x^\nu}  \\
+            =&-\frac{\left(r^2+a^2\right)^2-\varDelta a^2\sin ^2\theta}{\varSigma \varDelta}\left(\frac{\partial}{\partial t}\right)^2-\frac{2a\left(r^2+a^2-\varDelta\right)}{\varSigma \varDelta}\left(\frac{\partial}{\partial t}\right)\left(\frac{\partial}{\partial \phi}\right)  \\
+            &+\frac{\varDelta-a^2\sin ^2\theta}{\varSigma \varDelta \sin^2 \theta}\left(\frac{\partial}{\partial \phi}\right)^2+\frac{\varDelta}{\varSigma}\left(\frac{\partial}{\partial r}\right)^2+\frac{1}{\varSigma}\left(\frac{\partial}{\partial \theta}\right)^2
+    \end{aligned} \tag{1.1}</script>]]></content>
+      <categories>
+        <category>物理</category>
+      </categories>
+      <tags>
+        <tag>广义相对论</tag>
+      </tags>
+  </entry>
+</search>
